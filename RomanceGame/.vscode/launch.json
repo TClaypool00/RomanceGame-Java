@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "RomanceGame_20f000ea",
+            "console": "externalTerminal"
+        }
+    ]
+}
